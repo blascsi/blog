@@ -1,0 +1,44 @@
+baseURL = "https://blascsi.github.io/blog"
+languageCode = "en-us"
+title = "AB"
+theme = "PaperMod"
+
+[minify]
+minifyOutput = true
+
+[params]
+description = "Blog of Attila Blascsak"
+author = "Attila Blascsak"
+ShowReadingTime = true
+ShowCodeCopyButtons = true
+
+[params.assets]
+# favicon = "<link / abs url>"
+# favicon16x16 = "<link / abs url>"
+# favicon32x32 = "<link / abs url>"
+# apple_touch_icon = "<link / abs url>"
+# safari_pinned_tab = "<link / abs url>"
+
+[params.homeInfoParams]
+Title = "Hi there \U0001F44B"
+Content = "I'm Attila, a sowftware engineer based in London"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/blascsi"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/attila-blascs%C3%A1k-245131124/"
+
+[[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/blascsi"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:attila@blascsak.com"
+
+[[params.socialIcons]]
+  name = "cv"
+  url = "http://cv.blascsak.com"
