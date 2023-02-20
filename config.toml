@@ -36,9 +36,9 @@ Content = "I'm Attila, a sowftware engineer based in London"
   url = "https://twitter.com/blascsi"
 
 [[params.socialIcons]]
-  name = "email"
-  url = "mailto:attila@blascsak.com"
-
-[[params.socialIcons]]
   name = "cv"
   url = "http://cv.blascsak.com"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:attila@blascsak.com"
